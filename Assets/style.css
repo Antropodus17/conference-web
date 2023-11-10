@@ -1,0 +1,143 @@
+article:first-of-type{
+    
+    background-color: #354BF7;
+    color:#FFFFFF ;
+    font-family:Google Font Roboto ;
+    padding: 2%;
+    margin-bottom: 20px;
+}
+li{
+    background-color: #354BF7;
+    color:#FFFFFF ;
+    font-family:Google Font Roboto ;
+    margin: 3%;
+    padding:2% ;
+}
+h1{
+    padding-left: 2%;
+    font-size: 2em;
+}
+h2{
+    margin-top: 50px;;
+    background-color: #C70039;
+    border-radius: 3%;
+    border: 400px;
+    padding-left: 50%;
+    padding-top:3%;
+    padding-bottom:3%;
+}
+h3{
+    padding-left: 2%;
+    font-size: 1.5em;
+}
+span{
+    background-color: #FFFFFF;
+    color: #354BF7;
+    border-radius: 15%;
+    border-width: 200px;
+}
+p{
+    padding-left: 2%;
+    margin-bottom: 25px;
+}
+a:link{
+    background-color: #C70039;
+    padding: 1%;
+    color: #FFFFFF;
+    text-decoration: none;
+    border-radius: 12%;
+    
+}
+a:hover{
+    border: 2.5px solid #C70039;
+    background-color: #FFFFFF;
+    color: #C70039;
+}
+div:first-of-type:not(:first-child){
+    width: 150px;
+    height: 120px;
+    background-color: #C70039;
+    position: relative;
+    left: 5%;
+    top: 4%;
+}
+div div:first-of-type{
+    width: 100px;
+    height: 75px;
+    background-color: #354BF7;
+    position: relative;
+    left: 25px;
+    top: 22.5px;
+}
+div div:nth-child(2){
+    width: 80px;
+    height: 55px;
+    background-color: #FFFFFF;
+    position: relative;
+    left: 35px;
+    top: -42.5px;
+}
+div div:nth-child(3){
+    width: 15px;
+    height: 15px;
+    background-color: #354BF7;
+    position: relative;
+    left: 42.5px;
+    top: -90px;
+}
+div div:nth-child(4){
+    width: 15px;
+    height: 15px;
+    background-color: #354BF7;
+    position: relative;
+    left: 67.5px;
+    top: -105px;
+}
+div div:nth-child(5){
+    width: 15px;
+    height: 15px;
+    background-color: #354BF7;
+    position: relative;
+    left: 92.5px;
+    top: -120px;
+}
+div div:nth-child(6){
+    width: 15px;
+    height: 15px;
+    background-color: #354BF7;
+    position: relative;
+    left: 42.5px;
+    top: -110px;
+}
+div div:nth-child(7){
+    width: 15px;
+    height: 15px;
+    background-color: #354BF7;
+    position: relative;
+    left: 67.5px;
+    top: -125px;
+}
+div div:nth-child(8){
+    width: 15px;
+    height: 15px;
+    background-color: #354BF7;
+    position: relative;
+    left: 92.5px;
+    top: -140px;
+}
+div div:nth-child(9){
+    width: 10px;
+    height: 15px;
+    background-color: #354BF7;
+    position: relative;
+    left: 42.5px;
+    top: -210.5px;
+}
+div div:nth-child(10){
+    width: 10px;
+    height: 15px;
+    background-color: #354BF7;
+    position: relative;
+    left: 95px;
+    top: -225.5px;
+}
