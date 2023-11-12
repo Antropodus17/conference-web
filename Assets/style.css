@@ -1,15 +1,16 @@
+main{
+    font-family:Google Font Roboto ;
+}
 article:first-of-type{
     
     background-color: #354BF7;
     color:#FFFFFF ;
-    font-family:Google Font Roboto ;
     padding: 2%;
     margin-bottom: 20px;
 }
 li{
     background-color: #354BF7;
     color:#FFFFFF ;
-    font-family:Google Font Roboto ;
     margin: 3%;
     padding:2% ;
 }
