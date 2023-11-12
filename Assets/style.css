@@ -2,7 +2,6 @@ main{
     font-family:Google Font Roboto ;
 }
 article:first-of-type{
-    
     background-color: #354BF7;
     color:#FFFFFF ;
     padding: 2%;
@@ -19,7 +18,7 @@ h1{
     font-size: 2em;
 }
 h2{
-    margin-top: 50px;;
+    margin: 1%;;
     background-color: #C70039;
     border-radius: 3%;
     border: 400px;
